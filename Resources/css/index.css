@@ -1,0 +1,21 @@
+.banner {
+    background-color: darkslategrey;
+    color: floralwhite;
+    margin-top: 75px;
+    text-align: center;
+    padding: 50px 0px;
+}
+
+#Arielle-cool {
+    height: 470px;
+    width: 390px;
+}
+ 
+#riri {
+    color: darkslategrey;
+    font-size: 100px; 
+}
+
+.bold {
+    font-weight: 900px;
+}
